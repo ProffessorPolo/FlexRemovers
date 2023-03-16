@@ -132,6 +132,11 @@ blockquote {
 	min-height: 100%;
 	width: 100%;
 }
+.banner-image2 {
+	vertical-align: middle;
+	min-height: 100%;
+	width: 100%;
+}
 .banner:after {
 	position: absolute;
 	top: 0;
