@@ -324,11 +324,18 @@ padding: 70px 0;
 	font-size: 60px;
 }
 .footer h1{
-color:#fff;
+color:#161616;
 }
 .footer.section {
-background: #020202;
+background: #ffffff;
 color: #949494;
+}
+.contact-box{
+	margin: auto;
+  max-width: 500px;
+  border: 2px solid #ccc;
+  padding: 20px;
+  text-align: center;
 }
 .subfooter p {
 	margin-bottom: 0;
